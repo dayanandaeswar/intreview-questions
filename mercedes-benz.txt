@@ -1,0 +1,6 @@
+1. How do we handle data base connections.
+2. How do we decide choosing b/w database.
+3. How do we look into app metrics.
+4. Indetails request flow of Kubernates in request flow.
+5. How do we handle d/b connection pool in shared database.
+6. How can we assign d/b connections to individual services. 

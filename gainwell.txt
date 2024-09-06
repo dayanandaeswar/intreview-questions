@@ -1,0 +1,90 @@
+4 services
+	about to commit
+		4th is failed
+		
+30 Sec Gateway
+	
+	
+	Async
+	
+		
+A test()
+B test()
+
+	C: A,B
+
+
+Stream API categorization
+
+	
+	terminal()
+
+A
+	sdf
+
+B
+	sdf
+
+C
+	sdfd
+
+
+SOLID
+
+	Interface
+
+	consumer
+   
+	business
+
+
+Angular 
+
+ng serve
+
+	AppModuel
+	
+
+
+New Angular from scartch
+
+	> Identify all the modules
+	> What authentication and authorization
+	> Branding ()
+	> Services, what kind of error mechanism
+	> Logging, Events( all the user events)
+	> 
+	
+Satic 
+	Nginx
+
+
+Java method
+	
+	> pagination, java 
+	
+	> 2 for loops in this method
+		1st loop - parent
+			2nd loop - child	
+		//1 miilon	
+			parrell processing 
+	> Do things upfornt
+		cache 
+			//redis cache
+	> DB Passsing
+			
+	> Performance is reduced.
+	
+	
+
+
+	
+
+	
+	
+	
+	
+	
+
+
+  
