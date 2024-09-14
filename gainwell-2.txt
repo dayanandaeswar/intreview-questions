@@ -1,0 +1,33 @@
+1. How to validate 
+	{ [ }]
+	
+2. 10 Employeess
+	10000 & 10000
+	
+	list.forEach(emp -> emp.getSalary())
+	.max()
+	
+	maxSalary
+	
+	list.filter(emp -> emp.getSalary ==  maxSalary).collect()
+	
+
+3. 	What is lambda vs functional interface
+4.  Unary & Binary
+
+5. Default 
+
+
+Optional<Employee> emp = Optional.of(new Employee());
+
+(emp.isPresent())
+
+	emp.get();
+
+parallelStream
+intermidate
+terminal
+
+how to create service.
+how to create modules
+

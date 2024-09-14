@@ -1,0 +1,10 @@
+SQL Performance imporovements
+=============================
+1. Indexes 
+2. Filtering
+	Type of indexes
+	
+========
+
+Function Interface
+	Function programing

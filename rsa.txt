@@ -1,0 +1,46 @@
+1. PM
+2. PO
+
+1. Internal of Enum
+ 
+	public class Test {
+		public static void main(String args[]) {
+		  A a = new A();
+		}
+	}
+
+	class A {
+		Status s;
+		static {
+			System.out.print("ASB ");
+		}
+		{
+			s = Status.SUCCESS;
+			System.out.print("AIB ");
+		}
+		
+		A() {        
+			System.out.print("ACB ");
+		}
+	}
+
+	enum Status {
+		SUCCESS,FAILURE;
+		static {
+			System.out.print("ESB ");
+		}
+		{
+			System.out.print("EIB ");
+		}
+
+		Status() {
+			System.out.print("ECB ");
+		}
+	}
+
+
+
+
+
+
+
